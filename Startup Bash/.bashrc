@@ -1,0 +1,8 @@
+alias ga='git add'
+alias gaa='git add .'
+alias gs='git status'
+alias gck='git checkout'
+alias gb='git branch'
+alias gc='git commit -m'
+alias gp='git push'
+alias graph='git log --all --decorate --oneline --graph'
