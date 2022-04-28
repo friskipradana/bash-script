@@ -7,8 +7,8 @@ echo "Git Shorthand"
 echo "[ga:git add] [gaa:git add .] [gs:git status]"
 echo "[gb:git branch] [gck:git checkout] [gc:git commit -m {message} ] [gp:git push]"
 echo "[gf:git fetch] [gm:git merge] [gpul:git pull]"
-echo "[gl: git log]"
-echo "[graph: git log decoration]"
+echo "[gl:git log]"
+echo "[graph:git log decoration]"
 echo "[git reset auth] git config --global credential.helper wincred"
 
 
